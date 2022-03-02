@@ -1,2 +1,2 @@
 #!/bin/bash
-rm /tmp/my_first_directory/*\n
+rm -rfv /tmp/my_first_directory/{*,.*}\n
